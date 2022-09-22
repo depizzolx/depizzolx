@@ -1,6 +1,5 @@
-<p>Hello, World.<p>
-<h1>I'm Tiago Depizzol.</h1>
-<p>Web Developer student.</p>
+<h1>Hello, World.</h1>
+<p>I'm a Web Developer.</p>
 
 <p>| SERVIAM |</p>
   <a href="https://github.com/rafaballerini">
