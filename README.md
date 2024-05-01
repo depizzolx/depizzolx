@@ -1,5 +1,5 @@
 <h1>🤙🏽 Hello, World.</h1>
-<p>I'm a Web Developer.</p>
+<p>I'm a Data Analyst.</p>
 
 <h2>🔎 Analytics</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depizzolx&layout=compact&langs_count=7&theme=great-gatsby"/>
